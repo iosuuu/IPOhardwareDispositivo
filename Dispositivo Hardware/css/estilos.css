@@ -1,0 +1,111 @@
+       
+        .body {
+            background-color: rgb(124, 121, 121);
+            margin: 0;
+            padding: 0;
+            
+        }
+        .objeto {
+            padding: 20px;
+        }
+        .comentario p {
+            font-style: italic;
+        }
+
+        .header{
+            display: flex;
+            justify-content: space-around;
+            background-color: rgb(79, 101, 101);
+
+        }
+        
+        .iframe{  
+            justify-content: center;
+        }
+
+        img{
+            text-align: center;
+            width: 500px;
+        }
+
+        div h1{
+            text-align: center;    
+        }
+        div h2{
+            text-align: center;    
+        }
+
+        div h3{
+            text-align: center;
+        }
+        p{
+            text-align: center;    
+        }
+
+       footer{
+        padding: 20px;
+        background-color: rgb(192, 150, 150);
+       }
+       .video {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .video iframe {
+        max-width: 100%;
+    }
+    footer {
+        padding: 10px;
+        background-color: rgb(145, 145, 145);
+        display: flex;
+        justify-content: center; /* Center text horizontally */
+        align-items: center; /* Center text vertically */
+        text-align: center; /* Additional text alignment for older browsers */
+    }
+    .FotoModelo{
+        justify-content: center;
+    }
+    .FotoModelo-container {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        height: 70vh; /* Adjust the height as needed */
+    }
+    .banner {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+        height: 50vh; /* Adjust the height as needed */
+    }
+    .imagenes{
+        display: flex;
+    }
+    .border {
+        overflow: hidden;
+        max-width: 1156px;
+        margin: 0 auto;
+        padding: 20px 0;
+    }
+    .Descripción{
+        padding: 100px;
+    }
+    .Características{
+        padding: 80px;
+    }
+    .introducion{
+        padding: 60px;
+    }
+    .banner{
+        justify-content: center;
+        width: 100%;
+        
+        
+    }
+    .header a{
+        color: #FFFFFF; /* Cambia el color del texto del menú, por ejemplo, a blanco (#FFFFFF) */
+        text-decoration: none; 
+        }
+    .video{
+        padding: 40px;
+    }
+    
